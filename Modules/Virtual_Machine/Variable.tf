@@ -1,0 +1,12 @@
+variable "vm_name" {}
+variable "rg_name" {}
+variable "vm_location" {}
+variable "size" {}
+variable "username" {}
+variable "password" {}
+variable "caching" {}
+variable "storage_account_type" {}
+variable "publisher" {}
+variable "offer" {}
+variable "sku" {}
+variable "nic_name" {}
